@@ -1,10 +1,10 @@
 
 h1 {
-	color: blue;
+	color: #196F3D;
 }
 
 p {
-	color: brown;
+	color: #196F3D;
 }
 .log ul {
     list-style-type: none;
@@ -31,6 +31,6 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #900C3F;
+    background-color: #196F3D;
 }
 
